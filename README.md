@@ -51,7 +51,7 @@ a.   KVL:
 b.  KCL:
  <img width="849" height="411" alt="image" src="https://github.com/user-attachments/assets/e05bff57-b273-4a31-a644-48edb0e5be8c" />
 
-
+PPPPPPP
 Calculation:
 
 a.   KVL:
